@@ -1,0 +1,2 @@
+# Securing-Systems-Exploring-File-Permissions-in-Linux
+Explore my Linux security expertise. Meticulous file permission management at enhancing system security. Check commits for insights into fortifying Linux environments. I detail meticulous checks, permission deconstruction, and strategic use of Linux. Witness how I fortified sensitive data, managed hidden files, and implemented access restrictions
